@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 from PIL import Image
 
-st.title("🖼️ Edge Detection Using Basic Convolution")
+st.title("Edge Detection Using Basic Convolution")
 st.write("Upload an image to apply horizontal, vertical, and combined convolution filters for edge detection.")
 
 # --- STEP 1: UPLOAD IMAGE ---
